@@ -1,0 +1,21 @@
+html {
+    background-color: gold;
+}
+
+body {
+    overflow: hidden;
+    background-color: gold;
+    margin: 0;
+}
+
+canvas {
+    background-color: gold;
+}
+
+.info {
+    position: absolute;
+    font-size: 0.75rem;
+    color: #282228;
+    font-family: monospace;
+    margin: 0.5rem;
+}

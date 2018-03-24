@@ -1,0 +1,14 @@
+{
+  "name": "shitty-rockets",
+  "version": "1.0.0",
+  "description": "sockets io driven smash-like physics based rocket game.",
+  "main": "index.js",
+  "author": "Scott Robertson",
+  "license": "MIT",
+  "private": false,
+  "scripts": { "start" : "node index.js" },
+  "dependencies": {
+    "express": "^4.16.2",
+    "socket.io": "^2.0.4"
+  }
+}
